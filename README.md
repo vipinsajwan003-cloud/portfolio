@@ -35,14 +35,6 @@ https://vipinsajwan003-cloud.github.io/portfolio/
 
 
 
-
- Preview
-
-
-
-
-
-
 What I Learned
 
 * Structuring web pages using HTML
@@ -67,11 +59,10 @@ What I Learned
 * linkedin : https://www.linkedin.com/in/vipin-sajwan-72b75337a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 
-## ⭐ Support
+ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
 
----
 
  📄 License
 
